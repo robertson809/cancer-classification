@@ -78,6 +78,13 @@ below, we can see that Logistic Regression clearly outperforms the Decision
 tree with an average F<sub>1</sub> score of 97% compared to 86%.
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/robertson809/cancer-classification/main/fig/f1_results.png" alt="drawing" width="600"/>
+</p>
+
+
+
+
 
 
 ## Contributions
