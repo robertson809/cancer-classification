@@ -1,6 +1,12 @@
+
+### Demo
+
+In /src, run classifier.py.
+
 # Identifying Cancer Types Given miRNA Profiles
 
-by Evan Blanpied and Michael Robertson for Davidson College's Machine Learning Homework 3
+by Michael Robertson and Evan Blanpied for Davidson College's Machine Learning Homework 3
+
 
 ## Introduction
 
@@ -18,7 +24,7 @@ approaches.
 We received the data in the form of patient files grouped by type of Cancer,
 where each patient file contained a text file describing test results. In order to
 use this data for training, we first converted it to two .csv files, one for features
-and one for targets. The targets file has a row for each patient, a column for
+and one for targets. The features file has a row for each patient, a column for
 each test, and the value of each test for each patient in the corresponding
 cell. The targets file is simply a list of the target values, where the patient
 in the <i>i</i>-th row of the features file has cancer in the <i>i</i>-th entry of the target file.
@@ -81,9 +87,6 @@ tree with an average F<sub>1</sub> score of 97% compared to 86%.
 <p align="center">
   <img src="https://raw.githubusercontent.com/robertson809/cancer-classification/main/fig/f1_results.png" alt="drawing" width="600"/>
 </p>
-
-
-
 
 
 
