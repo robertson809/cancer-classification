@@ -1,10 +1,12 @@
-# Identifying Cancer Types Given miRNA Profiles
-
-by Michael Robertson and Evan Blanpied for Davidson College's Machine Learning Homework 3
 
 ### Demo
 
 In /src, run classifier.py.
+
+# Identifying Cancer Types Given miRNA Profiles
+
+by Michael Robertson and Evan Blanpied for Davidson College's Machine Learning Homework 3
+
 
 ## Introduction
 
