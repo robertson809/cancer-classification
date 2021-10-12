@@ -1,0 +1,2 @@
+There are no examples to look at where a nothing label is classifed. Thus we have significant bias in our sampling that will
+effect our outputs
